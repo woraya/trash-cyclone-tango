@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frames_per_second_1", "Assembly-CSharp-firstpass.csproj", "{876A9B67-4997-0173-CA7A-0BA2FD3B685F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frames_per_second_1", "Assembly-CSharp.csproj", "{5350F922-5547-745F-36DC-85C285C94B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frames_per_second_1", "Assembly-CSharp-Editor.csproj", "{DCFB97CD-BDEE-29FD-5965-3F1C5797A915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876A9B67-4997-0173-CA7A-0BA2FD3B685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876A9B67-4997-0173-CA7A-0BA2FD3B685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876A9B67-4997-0173-CA7A-0BA2FD3B685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876A9B67-4997-0173-CA7A-0BA2FD3B685F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5350F922-5547-745F-36DC-85C285C94B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5350F922-5547-745F-36DC-85C285C94B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5350F922-5547-745F-36DC-85C285C94B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5350F922-5547-745F-36DC-85C285C94B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFB97CD-BDEE-29FD-5965-3F1C5797A915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFB97CD-BDEE-29FD-5965-3F1C5797A915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFB97CD-BDEE-29FD-5965-3F1C5797A915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFB97CD-BDEE-29FD-5965-3F1C5797A915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

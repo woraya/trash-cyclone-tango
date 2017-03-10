@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/animate.cs">
+    <Files>
+      <File FileName="Assets/NucleonSpawner.cs" Line="33" Column="6" />
+      <File FileName="Assets/Nucleon.cs" Line="1" Column="1" />
+      <File FileName="Assets/OnCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/RaycastLook.cs" Line="9" Column="28" />
+      <File FileName="Assets/animate.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

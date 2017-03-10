@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Nucleon.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Nucleon.cs" Line="28" Column="25" />
+      <File FileName="Assets/Scripts/NucleonSpawner.cs" Line="16" Column="27" />
+      <File FileName="Assets/Scripts/loadPrefabs.cs" Line="81" Column="21" />
+      <File FileName="Assets/Scripts/jsonDEMO.cs" Line="28" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

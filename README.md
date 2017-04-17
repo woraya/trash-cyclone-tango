@@ -1,4 +1,4 @@
-# trash-cyclone-tango
+# Trash Cyclone Tango
 
 This repository for Magic Windows and Mixed-Up Realities class assignments.
 
